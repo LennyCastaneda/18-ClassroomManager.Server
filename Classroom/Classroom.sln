@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classroom.API", "Classroom.API\Classroom.API.csproj", "{746F932D-040D-43C8-AF06-45AD242EEBC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classroom.API.Tests", "Classroom.API.Tests\Classroom.API.Tests.csproj", "{04291D38-D9D2-483D-B887-D1AD512162CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{746F932D-040D-43C8-AF06-45AD242EEBC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746F932D-040D-43C8-AF06-45AD242EEBC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746F932D-040D-43C8-AF06-45AD242EEBC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746F932D-040D-43C8-AF06-45AD242EEBC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04291D38-D9D2-483D-B887-D1AD512162CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04291D38-D9D2-483D-B887-D1AD512162CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04291D38-D9D2-483D-B887-D1AD512162CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04291D38-D9D2-483D-B887-D1AD512162CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
